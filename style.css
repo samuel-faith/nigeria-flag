@@ -1,0 +1,22 @@
+p {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 100px;
+}
+
+.main > div {
+    width: 750px;
+    height: 300px;
+    background-color: green;
+    position: relative;
+    top: 200px;
+    left: 25%;
+}
+
+div .white {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    left: 250px;
+}
